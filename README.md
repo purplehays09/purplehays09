@@ -3,8 +3,8 @@
 Hi I am David! I am an estatic and driven Full Stack Developer working on turning ideas into technology! I am currently working on making my own Table Top RPG 'Undiscovered' that will take the pen and paper roots and redisign them to make a game wholly devoted to creative problemsolving in character!
 
 - 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Django
-- 💬 Ask me anything about Frontend
+- 🌱 I’m currently learning Ruby
+- 💬 Ask me anything about Table Top RPGs
 - 📫 How to reach me: davidmalloryhays@gmail.com
 - ⚡ Fun fact: I've been building a Table Top RPG for 2 years and can't wait to share it with the world. 
 
