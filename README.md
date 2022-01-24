@@ -20,6 +20,8 @@ Hi I am David! I am an estatic and driven Full Stack Developer working on turnin
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![ruby](https://img.shields.io/badge/-ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
+![rails](https://img.shields.io/badge/-rails-grey?style=for-the-badge&logo=rails&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
