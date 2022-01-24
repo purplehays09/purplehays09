@@ -16,7 +16,7 @@ Hi I am David! I am an estatic and driven Full Stack Developer working on turnin
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 <br>
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![sql](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white&labelColor=8E2DE2)
+![postres](https://img.shields.io/badge/-postgres-grey?style=for-the-badge&logo=postgres&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
