@@ -16,14 +16,17 @@ Hi I am David! I am an estatic and driven Full Stack Developer working on turnin
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 <br>
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+![sql](https://img.shields.io/badge/-sql-grey?style=for-the-badge&logo=sql&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![ruby](https://img.shields.io/badge/-ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
-![rails](https://img.shields.io/badge/-rails-grey?style=for-the-badge&logo=rails&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<br>
+![ruby](https://img.shields.io/badge/-ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
+![rails](https://img.shields.io/badge/-rails-grey?style=for-the-badge&logo=rails&logoColor=white&labelColor=8E2DE2)
+![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 
 <img src="https://github-readme-stats.vercel.app/api?username=purplehays09&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
