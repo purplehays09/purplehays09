@@ -30,6 +30,7 @@ Hi I am David! I am an estatic and driven Full Stack Developer working on turnin
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 <br>
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
+![aws](https://img.shields.io/badge/-aws-grey?style=for-the-badge&logo=aws&logoColor=white&labelColor=8E2DE2)
 ![vercel](https://img.shields.io/badge/-vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)
 
 
