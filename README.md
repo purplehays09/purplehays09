@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi I am David! I am an estatic and driven Full Stack Developer working on turning ideas into technology! I am currently working on making my own Table Top RPG 'Undiscovered' that will take the pen and paper roots and redisign them to make a game wholly devoted to creative problemsolving in character!
+Hi I am David! I am an ecstatic and driven Full Stack Developer working on turning ideas into technology! I am currently working on making my own Table Top RPG 'Undiscovered' that will take the pen and paper roots and redisign them to make a game wholly devoted to creative problemsolving in character!
 
 - 🔭 I’m currently working on Rails/React
 - 🌱 I’m currently learning MongoDB
