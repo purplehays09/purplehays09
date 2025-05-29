@@ -33,7 +33,6 @@ Hi I am David! I am an ecstatic and driven Full Stack Developer working on turni
 ![vercel](https://img.shields.io/badge/-vercel-grey?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8E2DE2)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=purplehays09&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purplehays09&theme=radical&title_color=8E2DE2&text_color=fff)
